@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChestSpawner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChestSpawner_jar</output-path>
+    <root id="archive" name="ChestSpawner.ext.jar">
+      <element id="module-output" name="ChestSpawner" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gameserver_copy_new/scripts.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../gameserver_copy_new/server.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

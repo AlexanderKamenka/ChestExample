@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scripts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gameserver_copy_new/scripts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../gameserver_copy_new/server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
